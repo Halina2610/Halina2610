@@ -1,9 +1,6 @@
-<h2 align="center"> Hi there! 👋</h2>
+<h3 align="center"> Hi there! 👋</h3>
 <h1 align="center"> My name is <a href="https://halina2610.github.io/portfolio-start-project-app/" target="_blank">Halina</a>, </h1>
-<h2 align="center">and I am a React Frontend Developer.</h2>
-
-<img align="center" srs='https://th.bing.com/th/id/OIP.nGbArepU9uhOlvA9oY_I9wAAAA?w=175&h=159&rs=1&pid=ImgDetMain'/>
-
+<h3 align="center">and I am a React Frontend Developer.</h3>
 <p align="center"><strong> Skills: </strong></p>
 <div align="center" display="flex">
   <img src='https://camo.githubusercontent.com/b2c7bc89ed216d7b13c849d418dc016853bec2df84ce2edd4ad8d9115e6c775d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d72656163742d3238324333343f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374'/>

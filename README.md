@@ -1,16 +1,34 @@
-### Hi there 👋
+<h2 align="center"> Hi there! 👋</h2>
+<h1 align="center"> My name is <a href="https://halina2610.github.io/portfolio-start-project-app/" target="_blank">Halina</a>, </h1>
+<h2 align="center">and I am a React Frontend Developer.</h2>
 
-<!--
-**Halina2610/Halina2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" srs='https://th.bing.com/th/id/OIP.nGbArepU9uhOlvA9oY_I9wAAAA?w=175&h=159&rs=1&pid=ImgDetMain'/>
 
-Here are some ideas to get you started:
+<p align="center"><strong> Skills: </strong></p>
+<div align="center" display="flex">
+  <img src='https://camo.githubusercontent.com/b2c7bc89ed216d7b13c849d418dc016853bec2df84ce2edd4ad8d9115e6c775d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d72656163742d3238324333343f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374'/>
+   <img src='https://camo.githubusercontent.com/30c1f32af037a7d0bfa3006c9fd25e1225d1f032593776f8ef90fa12977c8b2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d72656475782d3238324333343f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d364633464233'/>
+   <img src='https://camo.githubusercontent.com/30c1f32af037a7d0bfa3006c9fd25e1225d1f032593776f8ef90fa12977c8b2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d72656475782d3238324333343f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d364633464233'/>
+   <img src='https://camo.githubusercontent.com/8dc3095435a7fae3e01398a33d1d28a3331fe04b8e00c7794a8a243da6502f61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176617363726970742d3238324333343f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074'/>
+   <img src='https://camo.githubusercontent.com/4bd93af131975ab1dca0cc677e2731525fa847cda5c0a47537c89ba36d75368e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d68746d6c352d3238324333343f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35'/>
+   <img src='https://camo.githubusercontent.com/e289a9796c7f959c4041d2bf65065a704c8b85900c962d636cb5fb0dbfe1b71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d637373332d3238324333343f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d333239364430'/>
+   <img src='https://camo.githubusercontent.com/b47c22aad816171822d553ecaa7056e95ddbc4d49a59c1409953c55c3c45a216/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6769746875622d3238324333343f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562'/>
+   <img src='https://camo.githubusercontent.com/cca390cbab295ff33d74da1eddf4312fae0e3c3e6662603a1b537945453b74a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6d6174657269616c5f75692d3238324333343f7374796c653d666f722d7468652d6261646765266c6f676f'/>
+</div>
+<h3 align="center"> Contact Me:</h3>
+<p align="center"> You can reach out to me through the following social media platforms:</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href='https://www.linkedin.com/in/halina-kls/'target="_blank">
+    <img src='https://camo.githubusercontent.com/1f5cde77acc8cb280cc5d312e92d80675b571faade503ebed6e0f61af8c95e6b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696e6b6564696e2d3032373342323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e'/> 
+  </a> 
+<a href='https://t.me/halina_kls' target="_blank" > 
+  <img src='https://camo.githubusercontent.com/b350771a9edaa0e3e22e9bec2c206a4743146bfbe147eddea3df0138e6d837d6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d74656c656772616d2d3030413845363f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d'/> 
+</a> 
+  <a href='https://www.instagram.com/halina_kls/' target="_blank"> 
+    <img src='https://camo.githubusercontent.com/1bcaf82bb8b630f58e696e6f471d389d136a945b56bc3e192ee024f9988dc337/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d696e7374616772616d2d3238324333343f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d423033423936'/>
+  </a>
+</div>
+
+<h4 align="center"> Feel free to connect with me and let's discuss exciting projects and opportunities!Looking forward to collaborating with you! 😊 </h4>

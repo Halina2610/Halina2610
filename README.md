@@ -7,7 +7,7 @@
 <span><img src="https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=Redux&logoColor=white&color=%23764ABC" alt="Redux"></img> </span>
 <span><img src="https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript&color=%2320232A" alt="Javascript"></img> </span>
 <span><img src="https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript&logoColor=white&color=%23007ACC" alt="Typescript"></img> </span>
-<span><img src="https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vue.js&color=%23213547" alt="Vue"></img> </span>)
+<span><img src="https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vue.js&color=%23213547" alt="Vue"></img></span>
 <span><img src="https://img.shields.io/badge/Pinia-000?style=for-the-badge&logo=pinia&logoColor=white&color=%23FFD859" alt="Pinia" ></img> </span>
 <span><img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white&color=%23E24F23" alt="HTML5"></img> </span>
 <span><img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white&color=%230979c4" alt="CSS3"></img> </span>

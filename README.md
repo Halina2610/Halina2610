@@ -10,8 +10,8 @@
 <span><img src="https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vue.js&color=%23213547" alt="Vue"></img> </span>)
 <span><img src="https://img.shields.io/badge/Pinia-000?style=for-the-badge&logo=pinia&logoColor=white&color=%23FFD859" alt="Pinia" ></img> </span>
 <span><img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white&color=%23E24F23" alt="HTML5"></img> </span>
-<span>CSS3<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white&color=%230979c4" alt="CSS3"></img> </span>
-<span>Styled components<img src="https://img.shields.io/badge/Styled_components-000?style=for-the-badge&logo=Styled-components&color=%2320232A" alt="Styled components"></img> </span>
+<span><img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white&color=%230979c4" alt="CSS3"></img> </span>
+<span><img src="https://img.shields.io/badge/Styled_components-000?style=for-the-badge&logo=Styled-components&color=%2320232A" alt="Styled components"></img> </span>
 <span><img src="https://img.shields.io/badge/Scss-000?style=for-the-badge&logo=sass&logoColor=white&color=%23C66394" alt="SCSS"></img> </span>
 <span><img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&color=%2320232A" alt="Figma"></img> </span>
 

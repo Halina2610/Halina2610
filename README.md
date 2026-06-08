@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Halina Klyashtornaya** — Full-Stack Developer from Belarus.
+I'm **Halina Klyashtornaya** — Product Engineer from Belarus.
 
 Currently building **Post Pioneer**, a SaaS platform for social media automation.
 
@@ -36,6 +36,7 @@ Currently building **Post Pioneer**, a SaaS platform for social media automation
 
 ### 💡 Interests
 
+* Product Engineering
 * Full-Stack Development
 * DevOps & Infrastructure
 * SaaS Products
@@ -48,4 +49,6 @@ Currently building **Post Pioneer**, a SaaS platform for social media automation
 * [LinkedIn](https://www.linkedin.com/in/halina-kls/)
 * Post Pioneer: https://postpioneer.ru
 
-> I enjoy building products end-to-end — from frontend and backend development to deployment, monitoring, and production operations.
+> Building and operating SaaS products from idea to production.
+>
+> From frontend and backend development to infrastructure, CI/CD, monitoring and production operations.

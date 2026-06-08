@@ -45,7 +45,7 @@ Currently building **Post Pioneer**, a SaaS platform for social media automation
 ### 📫 Links
 
 * [Telegram](https://t.me/halina_kls)
-* [LinkedIn] ()https://www.linkedin.com/in/halina-kls/
+* [LinkedIn] (https://www.linkedin.com/in/halina-kls/)
 * Post Pioneer: https://postpioneer.ru
 
 > I enjoy building products end-to-end — from frontend and backend development to deployment, monitoring, and production operations.
